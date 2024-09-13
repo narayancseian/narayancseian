@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently Working as a SDET at Apexon.<br>👯 I'm looking to collaborate on GenAI projects.<br>🌱 I'm currently learning GenAI technologies and backend development.
+🔭 I'm currently Working as a SDET at Realtimate.<br>👯 I'm looking to collaborate on GenAI projects.<br>🌱 I'm currently learning GenAI technologies and backend development.
 
 
 ## 🌐 Socials:
